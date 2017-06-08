@@ -1,0 +1,1320 @@
+#eriproHomeSlider{
+	border-radius:7px;
+}
+
+.bdCntntAAInr{
+	width:746px;
+	height:auto;
+	float:left;
+	margin-left:auto;
+}
+
+.bdCntntAAInrWrpr{
+	width:748px;
+	height:auto;
+	float:left;
+}
+
+.bdCntntABInrWrpr{
+	width:auto;
+	height:auto;
+	margin:0 auto;
+}
+
+.bdCntntABInr{
+	width:auto;
+	height:auto;
+	margin:0 auto;
+}
+
+.bdCntntAAAAWrpr{
+	float: left;
+    height: auto;
+    width: 500px;
+	
+}
+
+.body3THeaderAAAA{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:490px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderAAAAInr{
+	width:490px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderAAAAText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 488px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntAAAA{
+	background-color: #CCCCCC;
+    float: left;
+    height: 310px;
+    margin-left: auto;
+    padding: 1px;
+    width: 490px;
+}
+
+.bdCntntAAAAInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 310px;
+    width: 490px;
+}
+
+.bdCntntAAAATextCntnr{
+    height: 240px;
+    padding: 0 10px;
+}
+
+.bdCntntAAAATextWrpr{
+	height: 220px;
+}
+
+.bdCntntAAAATextDiv{
+	height: 200px;
+    overflow: hidden;
+}
+
+.bdCntntAAAABtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntAAAAPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+.bdCntntAAABWrpr{
+	float: left;
+    height: auto;
+    width: 246px;
+	
+}
+
+.body3THeaderAAAB{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:236px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderAAABInr{
+	width:236px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderAAABText{
+	height: 30px;
+    padding-top: 10px;
+    width: 234px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntAAAB{
+	background-color: #CCCCCC;
+    float: left;
+    height: 278px;
+    margin-left: auto;
+    padding: 1px;
+    width: 236px;
+}
+
+.bdCntntAAABInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 278px;
+    width: 236px;
+}
+
+.bdCntntAAABTextCntnr{
+    height: auto;
+    padding: 0 10px;
+}
+
+.bdCntntAAABTextWrpr{
+	height: auto;
+}
+
+.bdCntntAAABTextDiv{
+	height: auto;
+    overflow: hidden;
+}
+
+.bdCntntAAABTextDiv ul {
+    background-color: #FFFFFF;
+    float: left;
+    font-weight: bold;
+    list-style: none outside none;
+    margin: 0;
+    padding: 10px 0 5px 10px;
+    width: 90%;
+}
+
+.bdCntntAAABTextDiv li a {
+    background: url("../images/li_bg.jpg") no-repeat scroll 0 2px #FFFFFF;
+    color: #336699;
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+    padding: 0 0 1px 19px;
+    text-decoratoin:none;
+    height:15px;
+}
+
+
+.bdCntntAAABTextDiv li a img {
+    outline: medium none;
+}
+
+.bdCntntAAABTextDiv li a .t {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #336699;
+}
+
+.bdCntntAAABTextDiv li:hover>a .t
+{
+  color:#000;
+}
+
+.bdCntntAAABBtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntAAABPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+.bdCntntABAAWrpr{
+	float: left;
+    height: auto;
+    width: 250px;
+	
+}
+
+.body3THeaderABAA{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:248px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderABAAInr{
+	width:248px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderABAAText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 246px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntABAA{
+	background-color: #CCCCCC;
+    float: left;
+    height: 216px;
+    margin-left: auto;
+    padding: 1px;
+    width: 248px;
+}
+
+.bdCntntABAAInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 220px;
+    width: 248px;
+}
+
+.bdCntntABAATextCntnr{
+    height: 206px;
+    padding: 0 3px;
+}
+
+.bdCntntABAATextWrpr{
+	height: 200px;
+}
+
+.bdCntntABAATextDiv{
+    overflow: hidden;
+}
+
+.newsCenterDiv li {
+	background: url("../images/li_bg.jpg") no-repeat scroll 0 2px #FFFFFF;
+    color: #336699;
+    display: block;
+    font: 12px Arial,Helvetica,sans-serif;
+    height:auto;
+    text-decoration:none;
+    padding: 0 0 0 14px !important ; 
+}
+
+.bdCntntABAABtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntABAAPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+
+.bdCntntABABWrpr{
+	float: left;
+    height: auto;
+    width: 250px;
+	
+}
+
+.body3THeaderABAB{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:248px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderABABInr{
+	width:248px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderABABText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 246px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntABAB{
+	background-color: #CCCCCC;
+    float: left;
+    height: 169px;
+    margin-left: auto;
+    padding: 1px;
+    width: 248px;
+}
+
+.bdCntntABABInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 169px;
+    width: 248px;
+}
+
+.bdCntntABABTextCntnr{
+    height: 160px;
+    padding: 0 10px;
+}
+
+.bdCntntABABTextWrpr{
+	height: 150px;
+}
+
+.bdCntntABABTextDiv{
+	height: 150px;
+    overflow: hidden;
+}
+
+.bdCntntABABBtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntABABPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+
+.nrmlTxt{
+    color: #333333;
+    font: 12px Arial,Helvetica,sans-serif;
+}
+
+
+.bodyBoldText{
+	font-weight: bold;
+}
+
+
+.bdCntntBA{
+	width:740px;
+	height:85px;
+	background-color:#CCCCCC;
+	padding:1px;
+}
+
+.bdCntntBAInr{
+	width:740px;
+	height:85px;
+	background-color:#FFFFFF;
+}
+
+.bdCntntBAHead{
+	text-align:left;
+	line-height:normal;
+	padding-left:10px;
+	width:auto;
+	height:13px;
+	color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+    padding-top:6px;
+}
+
+.bdCntntBALine{
+	background-color:#CCCCCC;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:5px;
+	width:auto;
+	height:1px;
+	overflow:hidden;
+}
+
+.bdCntntBAText{
+	text-align:left;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:5px;
+	width:auto;
+	height:42px;
+	overflow:hidden;
+}
+
+.bdCntntBAReadMore{
+	text-align:right;
+	line-height:normal;
+	margin-left:10px;
+	margin-right:10px;
+	width:auto;
+	height:13px;
+}
+
+.bdCntntBAReadMore a {
+    color: #336699;
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    height: 24px;
+    text-decoration:none;
+}
+
+.bdCntntBAReadMore a:hover {
+  color:#000;
+}
+
+
+
+.bdCntntDAAAWrpr{
+	float: left;
+    height: auto;
+    width: 250px;
+	
+}
+
+.body3THeaderDAAA{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:240px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderDAAAInr{
+	width:240px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderDAAAText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 238px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntDAAA{
+	background-color: #CCCCCC;
+    float: left;
+    height: 310px;
+    margin-left: auto;
+    padding: 1px;
+    width: 240px;
+}
+
+.bdCntntDAAAInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 310px;
+    width: 240px;
+}
+
+.bdCntntDAAATextCntnr{
+    height: 240px;
+    padding: 0 10px;
+}
+
+.bdCntntDAAATextWrpr{
+	height: 220px;
+}
+
+.bdCntntDAAATextDiv{
+	height: 200px;
+    overflow: hidden;
+}
+
+.bdCntntDAAABtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntDAAAPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+.bdCntntDAABWrpr{
+	float: left;
+    height: auto;
+    width: 250px;
+	
+}
+
+.body3THeaderDAAB{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:240px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderDAABInr{
+	width:240px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderDAABText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 238px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntDAAB{
+	background-color: #CCCCCC;
+    float: left;
+    height: 310px;
+    margin-left: auto;
+    padding: 1px;
+    width: 240px;
+}
+
+.bdCntntDAABInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 310px;
+    width: 240px;
+}
+
+.bdCntntDAABTextCntnr{
+    height: 240px;
+    padding: 0 10px;
+}
+
+.bdCntntDAABTextWrpr{
+	height: 220px;
+}
+
+.bdCntntDAABTextDiv{
+	height: 200px;
+    overflow: hidden;
+}
+
+.bdCntntDAABBtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntDAABPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+.bdCntntDAACWrpr{
+	float: left;
+    height: auto;
+    width: 246px;
+	
+}
+
+.body3THeaderDAAC{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:236px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderDAACInr{
+	width:236px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderDAACText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 234px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntDAAC{
+	background-color: #CCCCCC;
+    float: left;
+    height: 310px;
+    margin-left: auto;
+    padding: 1px;
+    width: 236px;
+}
+
+.bdCntntDAACInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: 310px;
+    width: 236px;
+}
+
+.bdCntntDAACTextCntnr{
+    height: 240px;
+    padding: 0 10px;
+}
+
+.bdCntntDAACTextWrpr{
+	height: 220px;
+}
+
+.bdCntntDAACTextDiv{
+	height: 200px;
+    overflow: hidden;
+}
+
+.bdCntntDAACBtnCntnr{
+	height: 38px;
+    padding: 0 10px;	
+}
+
+.bdCntntDAACPostTimeDiv{
+	height: 20px;
+    overflow: hidden;
+    text-align: right;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pausePlayBtnCntnr{
+	height:38px;
+	width:38px;
+	text-align:left;
+	float:left;
+}
+
+.readmoreCntnr{
+	height:38px;
+	width:145px;
+	text-align:right;
+	margin-left:auto;
+}
+
+.pausePlayButton{
+	height:38px;
+	width:38px;
+	cursor:pointer;
+}
+
+.readmoreButton {
+	background-color:#FFFFFF;
+	text-decoration:none;
+	cursor:pointer;
+	color: #336699;
+	font-size: 13px;
+    font-weight: normal;
+}
+
+.readmoreButton:hover {
+	color: #000000;
+}
+
+
+.loginOvrlheaderWrpr{
+	margin:0 auto;
+	width:100%;
+	height:auto;
+}
+
+.loginOvrlheader {
+	height:80px;
+	z-index:2;
+	margin: 0 auto;
+}
+
+.loginOvrlheaderTopPad{
+	width:100%;
+	height:16px;
+	overflow:hidden;
+}
+
+.loginOvrlheaderInr {
+	margin:0;
+	text-align:left;
+	width:100%;
+}
+
+.loginOvrlheaderlogo {
+    float: left;
+    height: auto;
+    width: 60px;
+    height: 60px;
+    padding-left:12px;
+}
+
+
+.loginOvrlLbl { 
+border:0px;
+min-width:94px;
+color: #333333;
+font: 15px Arial,Helvetica,sans-serif;
+text-align:left;
+height:auto;
+float:left;
+padding-top:4px;
+}
+
+.loginOvrlLbl label{
+	padding-left:4px;
+	height:auto;
+}
+
+.trsprtLoginSectionCntnr {
+    border: 1px solid #333333;
+    margin: 0 auto;
+    width: 520px;
+}
+
+.trsprtLoginSectionCntnrInr{
+	margin: 0 auto;
+	width:300px;
+	padding:20px 0px;
+}
+
+.semiTransparentTopBtnCntnr {
+    background-color: #D8D8D8;
+    height: 32px;
+    padding-top: 4px;
+    text-align: center;
+    width: auto;
+    border-bottom: 1px solid #333333;
+}
+
+.semiTransparentButton{
+	background-color:#336699;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	padding:5px 10px;
+	margin:0 auto;
+	cursor:pointer;
+	border: 1px solid #000000; 
+}
+
+
+
+.trsprtLoginInr{
+	width: 670px;
+	z-index:6000;
+	display:block;
+	margin:auto;
+	margin-top: 110px;
+}
+
+.trsprtLoginInrPadder{
+	padding:26px 0px;
+	margin:0 auto;
+	width:624px;
+}
+
+.trsprtLoginBdCntnr{
+	width: 570px;
+	height: auto;
+	overflow:auto;
+	border: 1px solid #D8D8D8;
+	padding:10px;
+	background-color:#FFFFFF;
+	margin:0 auto;
+}
+
+.trsprtLoginBdCntnrInr{
+	width: 570px;
+	height: auto;
+	overflow:auto;
+	margin : 0 auto;
+	width:274px;
+}
+
+.trsprtLoginHeaderCntnr{
+	width: 590px;
+	height: 24px;
+	overflow:auto;
+	border-left: 1px solid #D8D8D8;
+	border-top: 1px solid #D8D8D8;
+	border-right: 1px solid #D8D8D8;
+	background-color:#EFEFEF;
+	margin:0 auto;
+}
+
+.trsprtLoginBtnCntnr{
+	width:67px;
+	text-align:center;
+	height:22px;
+	float:left;
+	margin:10px 0 0 275px;
+}
+
+.trsprtLoginChngPswdLPd{
+	float: left;
+	height: 17px;
+	width:129px;
+}
+.trsprtLoginChangePasswordCntnr {
+    float: left;
+    height: 17px;
+    margin: 0px auto 0px;
+    text-align: center;
+    width: 110px;
+}
+
+
+.trsprtLoginChangePasswordLink {
+    color: #336699;
+    display: block;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 0 0 1px 0px;
+    text-decoration:none;
+    height:18px;
+    text-align:left;
+    width:105px;	
+}
+
+.trsprtLoginChangePasswordLink:hover {
+    color: #000000;
+}
+
+
+
+.trsprtChangePasswordInr{
+	width: 670px;
+	z-index:6000;
+	display:block;
+	margin:auto;
+	margin-top: 110px;
+}
+
+.trsprtChangePasswordInrPadder{
+	padding:26px 0px;
+	margin:0 auto;
+	width:624px;
+}
+
+.trsprtChangePasswordBdCntnr{
+	width: 570px;
+	height: auto;
+	overflow:auto;
+	border: 1px solid #D8D8D8;
+	padding:10px;
+	background-color:#FFFFFF;
+	margin:0 auto;
+}
+
+.trsprtChangePasswordBdCntnrInr{
+	width: 570px;
+	height: auto;
+	overflow:auto;
+	margin : 0 auto;
+	width:365px;
+}
+
+.trsprtChangePasswordHeaderCntnr{
+	width: 590px;
+	height: 24px;
+	overflow:auto;
+	border-left: 1px solid #D8D8D8;
+	border-top: 1px solid #D8D8D8;
+	border-right: 1px solid #D8D8D8;
+	background-color:#EFEFEF;
+	margin:0 auto;
+}
+
+.trsprtChangePasswordBtnCntnr{
+	width:111px;
+	text-align:center;
+	height:22px;
+	margin:10px auto;
+}
+
+.changePasswordOvrlLbl { 
+border:0px;
+min-width:185px;
+color: #333333;
+font: 15px Arial,Helvetica,sans-serif;
+text-align:left;
+height:auto;
+float:left;
+padding-top:4px;
+}
+
+.changePasswordOvrlLbl label{
+	padding-left:4px;
+	height:auto;
+}
+
+.homePageSectionHeaderGrdnt{
+	background-image: -ms-linear-gradient(top, #FDFDFD 0%, #EFEFEF 100%); /* IE10 */ 
+	background-image: -moz-linear-gradient(top, #FDFDFD 0%, #EFEFEF 100%); /* Mozilla Firefox */ 
+	background-image: -o-linear-gradient(top, #FDFDFD 0%, #EFEFEF 100%); /* Opera */
+	background-image: -webkit-gradient(linear, top, bottom, color-stop(0, #FDFDFD), color-stop(1, #EFEFEF)); /* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-linear-gradient(left, #FDFDFD 0%, #EFEFEF 100%); /* Webkit (Chrome 11+) */ 
+	background-image: linear-gradient(top, #FDFDFD 0%, #EFEFEF 100%); /* Proposed W3C Markup */
+}
+
+.bdCntntABACWrpr{
+    height: auto;
+    width: auto;
+    margin:0 auto;
+}
+
+.body3THeaderABAC{
+	background-color:#CCCCCC;
+	padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	width:248px;
+	height:40px;
+	color:#0C8FC7;
+	font-size:12pt;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+}
+
+.body3THeaderABACInr{
+	width:248px;
+	height:40px;
+	background-color:#FAFAFA;
+}
+
+.body3THeaderABACText{
+	 height: 30px;
+    padding-top: 10px;
+    width: 246px;
+    color: #336699;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+.bdCntntABAC{
+    height: auto;
+    margin-left: auto;
+    width: auto;
+}
+
+.bdCntntABACInr{
+	background-color: #FFFFFF;
+    color: #696969;
+    height: auto;
+    width: 568px;
+    border:1px solid #CCCCCC;
+    margin: 0 auto;
+}
+
+.bdCntntABACTextCntnr{
+    height: auto;
+    padding: 70px 12px;
+}
+
+.bdCntntABACTextWrpr{
+	height: auto;
+}
+
+.bdCntntABACTextDiv{
+	height: 110px;
+    overflow: hidden;
+}
+
+.loginBdCntnrInr{
+	height: auto;
+	margin : 0 auto;
+	width:436px;
+}
+
+.loginLbl { 
+border:0px;
+min-width:176px;
+color: #333333;
+font: 12px Arial,Helvetica,sans-serif;
+text-align:left;
+height:auto;
+float:left;
+valign : top;
+padding-top:4px;
+padding-left:2px;
+padding-bottom:20px;
+}
+
+.loginLblSmall { 
+border:0px;
+min-width:76px;
+color: #333333;
+font: 8px Arial,Helvetica,sans-serif;
+text-align:left;
+valign : top;
+height:auto;
+float:left;
+padding-top:4px;
+padding-left:2px;
+}
+
+.loginTextBox {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:22px;
+	background:#ffffff;
+	border:1px solid #7f9db9;
+	line-height: normal;
+	padding-left : 2px;
+	padding-top : 1px;
+	width: 250px;
+}
+
+.loginPasswordBox {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:22px;
+	background:#ffffff;
+	border:1px solid #7f9db9;
+	line-height: normal;
+	padding-left : 2px;
+	padding-top : 1px;
+	width: 250px;
+}
+
+.loginBtnCntnrWrprOutter{
+	text-align:center;
+	height:auto;
+	margin:6px 0px 0px 192px;
+}
+
+.loginSelect {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:25px;
+	width: 154px;
+}
+
+
+.loginChangePasswordCntnr {
+    height: 17px;
+    margin: 24px 0 0 137px;
+    padding-top: 12px;
+    text-align: center;
+    width: 86px;
+    padding-left:14px;
+}
+
+
+.loginChangePasswordLink {
+    color: #336699;
+    display: block;
+    font-size: 10px;
+    font-weight: normal;
+    padding: 0 0 1px 0px;
+    text-decoration:none;
+    height:18px;
+    text-align:left;
+    width:85px;	
+}
+
+.loginChangePasswordLink:hover {
+    color: #000000;
+}
+
+
+.loginBtnCntnrWrpr {
+    float: left;
+    height: auto;
+    padding: 0px 3px;
+}
+
+.loginBtnCntnr{
+	background-color:#B0B0B0;
+	padding:1px;
+	color:#555555;
+	font-size:12px;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+	cursor:pointer;
+}
+
+.loginBtnCntnr:hover{
+	color:#333333;
+	background-color:#888888;
+}
+
+.loginBtnCntnrInr{
+	background-color:#C6C6C6;
+}
+
+.loginBtnCntnrText{
+    padding: 10px 24px;
+    font-weight:normal;
+}
+
+
+
+.changePasswordBdCntnrInr{
+	height: auto;
+	overflow:auto;
+	margin : 0 auto;
+	width:240px;
+}
+
+.changePasswordLbl { 
+border:0px;
+width:90px;
+color: #333333;
+font: 12px Arial,Helvetica,sans-serif;
+text-align:left;
+height:auto;
+float:left;
+padding-top:4px;
+padding-left:2px;
+}
+
+
+.changePasswordTextBox {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:22px;
+	background:#ffffff;
+	border:1px solid #7f9db9;
+	line-height: normal;
+	padding-left : 2px;
+	padding-top : 1px;
+	width: 138px;
+}
+
+.changePasswordPasswordBox {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:22px;
+	background:#ffffff;
+	border:1px solid #7f9db9;
+	line-height: normal;
+	padding-left : 2px;
+	padding-top : 1px;
+	width: 138px;
+}
+
+.changePasswordBtnCntnrWrprOutter {
+    float: left;
+    height: auto;
+    margin: 6px 0 0 149px;
+    text-align: center;
+    width: 92px;
+}
+
+.changePasswordSelect {
+	font: 13px Arial,Helvetica,sans-serif;
+	color:#333333;
+	height:25px;
+	width: 154px;
+}
+
+
+.changePasswordChangePasswordCntnr {
+    float: left;
+    height: 17px;
+    margin: 0px 0 0 173px;
+    padding-top: 12px;
+    text-align: center;
+    width: 30px;
+    padding-left:38px;
+}
+
+
+.changePasswordChangePasswordLink {
+    color: #336699;
+    display: block;
+    font-size: 10px;
+    font-weight: normal;
+    padding: 0 0 1px 0px;
+    text-decoration:none;
+    height:18px;
+    text-align:left;
+    width:85px;	
+}
+
+.changePasswordChangePasswordLink:hover {
+    color: #000000;
+}
+
+.projectStatusAndIRLink {
+	color: #336699;
+    display: block;
+    font-size: 13px;
+    font-weight: normal;
+    text-decoration:none;
+    height:18px;
+    text-align:centre;
+    width:20%;	
+}
+
+.projectStatusAndIRLink:hover {
+    color: #000000;
+}
+
+.changePasswordBtnCntnrWrpr {
+    float: left;
+    height: auto;
+    padding: 0px 3px;
+}
+
+.changePasswordBtnCntnr{
+	background-color:#B0B0B0;
+	padding:1px;
+	height:20px;
+	color:#555555;
+	font-size:12px;
+	text-align:center;
+	vertical-align:middle;
+	line-height:normal;
+	cursor:pointer;
+}
+
+.changePasswordBtnCntnr:hover{
+	color:#333333;
+	background-color:#888888;
+}
+
+.changePasswordBtnCntnrInr{
+	height:20px;
+	background-color:#C6C6C6;
+}
+
+.changePasswordBtnCntnrText{
+    padding: 2px 4px;
+    font-weight:normal;
+}

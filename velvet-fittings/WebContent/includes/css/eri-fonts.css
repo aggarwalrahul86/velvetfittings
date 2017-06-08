@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "tngrn_rglr";
+	src: url("../fonts/Tangerine_Regular.eot");
+    src: local("tngrn_rglr"), 
+         url("../fonts/Tangerine_Regular.ttf") format("truetype"),
+         url("../fonts/Tangerine_Regular.svg#font") format("svg"); 
+}
+
+@font-face {
+	font-family: "EricssonCapitalTT";
+	src: url("../fonts/EricssonCapitalTT.eot");
+    src: local("EricssonCapitalTT"), 
+         url("../fonts/EricssonCapitalTT.ttf") format("truetype"),
+         url("../fonts/EricssonCapitalTT.svg#font") format("svg"); 
+}

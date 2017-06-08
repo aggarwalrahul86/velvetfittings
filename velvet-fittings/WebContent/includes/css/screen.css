@@ -1,0 +1,101 @@
+			
+    /* image replacement */
+        .graphic, #eriproHomePrevBtn, #eriproHomeNextBtn, #eriproHomeSlider1prev, #eriproHomeSlider1next{
+            margin:0;
+            padding:0;
+            display:block;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+			
+	#eriproHomeSlideCntnr{	
+		position:relative;
+		text-align:left;
+		width:495px;
+		}	
+	#header{
+		height:80px;
+		line-height:80px;
+		background:#5DC9E1;
+		color:#fff;
+		}				
+	#eriproHomeSlideContent{
+		position:relative;
+		}			
+
+/* Easy Slider */
+
+	#eriproHomeSlider ul, #eriproHomeSlider li,
+	#eriproHomeSlider2 ul, #eriproHomeSlider2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	#eriproHomeSlider2{margin-top:1em;}
+	#eriproHomeSlider li, #eriproHomeSlider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:495px;
+		height:320px;
+		overflow:hidden; 
+		}	
+	#eriproHomePrevBtn, #eriproHomeNextBtn,
+	#eriproHomeSlider1next, #eriproHomeSlider1prev{ 
+		display:block;
+		width:35px;
+		height:41px;
+		position:absolute;
+		left:0px;
+		top:135px;
+		z-index:1000;
+		}	
+	#eriproHomeNextBtn, #eriproHomeSlider1next{ 
+		left:460px;
+		}														
+	#eriproHomePrevBtn a, #eriproHomeNextBtn a,
+	#eriproHomeSlider1next a, #eriproHomeSlider1prev a{  
+		display:block;
+		position:relative;
+		width:35px;
+		height:41px;
+		background:url(../images/btn_prev.png) no-repeat 0 0;	
+		}	
+	#eriproHomeNextBtn a, #eriproHomeSlider1next a{ 
+		background:url(../images/btn_next.png) no-repeat 0 0;	
+		}	
+		
+	/* numeric controls */	
+
+	ol#controls{
+		margin:1em 0;
+		padding:0;
+		height:28px;	
+		}
+	ol#controls li{
+		margin:0 10px 0 0; 
+		padding:0;
+		float:left;
+		list-style:none;
+		height:28px;
+		line-height:28px;
+		}
+	ol#controls li a{
+		float:left;
+		height:28px;
+		line-height:28px;
+		border:1px solid #ccc;
+		background:#DAF3F8;
+		color:#555;
+		padding:0 10px;
+		text-decoration:none;
+		}
+	ol#controls li.current a{
+		background:#5DC9E1;
+		color:#fff;
+		}
+	ol#controls li a:focus, #eriproHomePrevBtn a:focus, #eriproHomeNextBtn a:focus{outline:none;}
+	
+/* // Easy Slider */

@@ -1,0 +1,10 @@
+update_______________________
+IPartsManagementDao
+
+add________________________
+ItemsManagementController
+IItemsManagementService
+ItemsManagementService
+IItemsManagementDao
+ItemsManagementDao
+manageItems.jsp

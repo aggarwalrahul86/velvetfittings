@@ -1,0 +1,132 @@
+/* tables */
+table.tablesorter {
+	font-family:arial;
+	background-color: #888888;
+	/*margin:10px 0pt 15px;*/
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+.tableSorterFixed {
+	table-layout: fixed;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #CFCFCF;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+	color: #222222;
+}
+table.tablesorter thead tr .header {
+	background-image: url(../images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	text-align:center;
+	font-weight:bold;
+	background-color: #CFCFCF;
+}
+table.tablesorter tfoot tr td {
+	background-image: url(../images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	text-align:center;
+	font-weight:bold;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 6px;
+	background-color: #FFF;
+	vertical-align: top;
+	font-weight: normal;
+	overflow:hidden;
+}
+table.tablesorter tbody td.Itemname {
+	color: #3D3D3D;
+	padding: 6px;
+	background-color: #FFF;
+	vertical-align: top;
+	font-weight: normal;
+	width:330px;
+	word-wrap:break-word;
+	overflow:hidden;
+	
+}
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(../images/asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(../images/desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+table.billtblSorter {
+	font-family:arial;
+	background-color: #888888;
+	/*margin:10px 0pt 15px;*/
+	font-size: 11pt;
+	width: 100%;
+	text-align: left;
+}
+.billtblSorterFixed {
+	table-layout: fixed;
+}
+table.billtblSorter thead tr th, table.billtblSorter tfoot tr th {
+	background-color: #CFCFCF;
+	border: 1px solid #FFF;
+	font-size: 12pt;
+	padding: 4px;
+	color: #222222;
+}
+table.billtblSorter thead tr .header {
+	background-image: url(../images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	text-align:center;
+	font-weight:bold;
+	background-color: #CFCFCF;
+}
+table.billtblSorter tfoot tr td {
+	background-image: url(../images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	text-align:center;
+	font-weight:bold;
+}
+table.billtblSorter tbody td {
+	color: #3D3D3D;
+	padding: 6px;
+	background-color: #FFF;
+	vertical-align: top;
+	font-weight: normal;
+	overflow:hidden;
+	font-size: 11pt;
+}
+table.billtblSorter tbody td.Itemname {
+	color: #3D3D3D;
+	padding: 6px;
+	background-color: #FFF;
+	vertical-align: top;
+	font-weight: normal;
+	width:330px;
+	word-wrap:break-word;
+	overflow:hidden;
+	
+}
+table.billtblSorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.billtblSorter thead tr .headerSortUp {
+	background-image: url(../images/asc.gif);
+}
+table.billtblSorter thead tr .headerSortDown {
+	background-image: url(../images/desc.gif);
+}
+table.billtblSorter thead tr .headerSortDown, table.billtblSorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+

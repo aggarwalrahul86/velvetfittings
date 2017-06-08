@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="/velvet-fittings/js/jquery/jquery-1.7.js" type="text/javascript"></script>
+<script src="/velvet-fittings/js/login.js" type="text/javascript"></script>
+<script src="/velvet-fittings/js/json/json2.js" type="text/javascript"></script>
+<script src="/velvet-fittings/js/jquery/custom-Jquery-Json-Creator.js" type="text/javascript"></script>
+<title>Welcome To Rest Page</title>
+</head>
+<body>
+<form id ="parts_frm" action="javascript:onSubmit()">
+<div id="msgCntnrId" style="display: block"></div>
+	<table>
+		<tr>
+			<td>Part Name :</td>
+			<td><input type = "text" id="name" name="name" /></td>
+		</tr>
+		<tr>
+			<td>Part Code :</td>
+			<td>
+			<input type = "text" id="code" name="code" /></td>
+		</tr>
+		<tr>
+			<td>Category :</td>
+			<td>
+			<select id="categoryId">
+				<option value="0" label="Select" >Select</option>
+				<option value="1" label="Handles" >Handles</option>
+				<option value="2" label="Bib Cock Body" >Bib Cock Body</option>
+				<option value="3" label="Bib Handle Body" >Bib Handle Body</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>Quantity :</td>
+			<td><input type ="text" name ="quantity" id ="quantity"/></td>
+		</tr>
+		<tr>
+			<td>Threshold Quantity :</td>
+			<td><input type ="text" name ="threshold" id ="threshold"/>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><input type="submit"></td>
+		</tr>
+	</table>
+</form>
+</body>
+</html>
